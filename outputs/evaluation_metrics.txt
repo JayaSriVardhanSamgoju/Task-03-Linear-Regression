@@ -1,0 +1,25 @@
+Linear Regression Model Evaluation Metrics
+===========================================
+Train R² Score:         0.6859
+Train MAE:              $719,242.89
+-------------------------------------------
+Test R² Score (R-sq):   0.6529
+Test MAE:               $970,043.40
+Test MSE:               1,754,318,687,330.67
+Test RMSE:              $1,324,506.96
+===========================================
+Feature Coefficients (Scaled Features):
+  Area                     : 519,552.42
+  Bedrooms                 : 57,349.56
+  Bathrooms                : 521,879.03
+  Stories                  : 349,251.44
+  Main_Road_Access         : 128,498.63
+  Has_Guestroom            : 88,768.67
+  Has_Basement             : 187,067.80
+  Has_Hot_Water            : 149,862.70
+  Has_Air_Conditioning     : 365,157.39
+  Parking_Spaces           : 192,005.95
+  Preferred_Area           : 266,656.35
+  Furnished_Semi           : -62,837.32
+  Furnished_No             : -192,015.92
+Intercept:                  4,706,527.39
